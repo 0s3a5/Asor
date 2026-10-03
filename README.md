@@ -16,3 +16,12 @@ En terminal de windows se debe poner lo siguietne
   2) python Asor.py probe          # indica si existe problema 
   3) python Asor.py run            # Corre todas las fechas
   4) python Asor.py run  --desde 2025-01-02 --ed-inicial 44038  #Corre desde fecha especifica y con edicion especifica (se uso este para el archivo)
+
+
+  Enlaces finales de los resultados en excel
+
+  https://docs.google.com/spreadsheets/d/120qml0-zXmbPkm77xd9cSgWzMQEs3kKytjbK9dpduFo/edit?usp=sharing
+
+  https://docs.google.com/spreadsheets/d/1RbMGJV7wjtEULj9tGhsuW2hQLZpnjTItfhIbfJ6xtTQ/edit?usp=sharing
+
+  https://docs.google.com/spreadsheets/d/17Rh9C-GSqW1wu6cvHb_ii3Y-MdWKD2lq7_a7MzSR38Y/edit?usp=sharing
