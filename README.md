@@ -14,8 +14,7 @@ Instrucciones
 En terminal de windows se debe poner lo siguietne
   1) pip install requests beautifulsoup4
   2) python Asor.py probe          # indica si existe problema 
-  3) python Asor.py run            # Corre todas las fechas
-  4) python Asor.py run  --desde 2025-01-02 --ed-inicial 44038  #Corre desde fecha especifica y con edicion especifica (se uso este para el archivo)
+  3) python Asor.py run  --desde 2025-01-02 --ed-inicial 44038  #Corre desde fecha especifica y con edicion especifica (se uso este para el archivo)
 
 
   Enlaces finales de los resultados en excel
